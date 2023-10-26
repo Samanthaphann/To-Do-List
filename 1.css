@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+}
+
+h1{
+    color: gray;
+}
+.textbox{
+    height: 2rem;
+    width: 40rem;
+    color: gray;
+    font-size: 1.2rem;
+    vertical-align: middle;
+}
+
+p{
+    color: gray;
+}
+
+button{
+    height: 2rem;
+    width: 4rem;
+    vertical-align: middle;
+}
+
+.to-do{
+    margin: 1.5rem 0 0 0;
+}
+
+.finished{
+    text-decoration: line-through;
+    color: green;
+}
